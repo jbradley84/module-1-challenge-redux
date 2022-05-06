@@ -1,8 +1,21 @@
-# Horiseon Code Refactor: Meeting accessibility standards
+# Horiseon Code Refactor
 
-To improve the overall accessibility and profile of Horiseon’s website, I have taken existing HTML and CSS and made several improvements. I have updated the code to include semantic HTML and accessibility tags, features which will make the site user friendly for those using screen readers. I have also reviewed the code for errors and/or redundancies, making improvements where applicable. 
+## Purpose
+* Improve website accessibility with semantic HTML and accessibility tags
+* Optimize website for search engines
+* Review existing code for errors and/or redundancy
+* Reivew existing code for logic-based structure
 
-In making these changes, the code has become more user friendly, and the client’s website has been optimized for search engines.  
+## Built With
+* HTML
+* CSS
+
+## Website
+https://jbradley84.github.io/module-1-challenge-redux/
+
+![ScreenShot](images/horiseon-screenshot.png)
+
+## Made with ❤️ by J. Bradley Whittington
 
 - - -
 
@@ -25,3 +38,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
