@@ -13,7 +13,7 @@
 ## Website
 https://jbradley84.github.io/module-1-challenge-redux/
 
-![ScreenShot](images/horiseon-screenshot.png)
+![ScreenShot](/assets/images/horiseon-screenshot.png)
 
 ## Made with ❤️ by J. Bradley Whittington
 
